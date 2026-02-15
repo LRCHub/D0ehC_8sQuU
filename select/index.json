@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "やっぱり雨は降るんだね",
+  "base_artist": "ツユ",
+  "createdAt": "2026-02-15T14:54:24.176946Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "やっぱり雨は降るんだね",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/01_やっぱり雨は降るんだね_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "01. やっぱり雨は降るんだね",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/02_01._やっぱり雨は降るんだね_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "やっぱり雨は降るんだね - It's Raining After All",
+      "artist": "TUYU",
+      "has_synced": true,
+      "path": "select/03_やっぱり雨は降るんだね_-_It's_Raining_After_All_TUYU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "やっぱり雨は降るんだね - It's Raining After All",
+      "artist": "TUYU",
+      "has_synced": true,
+      "path": "select/04_やっぱり雨は降るんだね_-_It's_Raining_After_All_TUYU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "やっぱり雨は降るんだね",
+      "artist": "TUYU",
+      "has_synced": true,
+      "path": "select/05_やっぱり雨は降るんだね_TUYU.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ツユ - やっぱり雨は降るんだね MV",
+      "artist": "TUYU",
+      "has_synced": true,
+      "path": "select/06_ツユ_-_やっぱり雨は降るんだね_MV_TUYU.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "やっぱり雨は降るんだね",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/07_やっぱり雨は降るんだね_ツユ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "やっぱり雨は降るんだね",
+      "artist": "ツユ",
+      "has_synced": false,
+      "path": "select/pl_01_やっぱり雨は降るんだね_ツユ.txt"
+    }
+  ]
+}
